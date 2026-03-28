@@ -14,9 +14,13 @@ Ideal for students, teachers, and engineers who copy AI-generated explanations o
 ## 📸 Demo
 
 **Before running the macro:**
+
+
 ![Original text with dollar signs](Images/Before.png)
 
 **After running the macro:**
+
+
 ![Converted equations](Images/After.png)
 
 ## ⚙️ Installation
